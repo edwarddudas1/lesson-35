@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 600px;
+    height: 300px;
+    background-color: rgb(181, 172, 172);
+    border-radius: 25px;
+    box-shadow: 10px 6px 15px grey;
+}
+h1{
+  margin-left: 130px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+input{
+    margin-left: 125px;
+    margin-top: 75px;
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 10px 6px 15px black;
+    text-align: center;
+}
+button{
+    margin-top: 25px;
+    margin-left: 175px;
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    box-shadow: 10px 6px 15px grey;
+}
